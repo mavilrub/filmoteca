@@ -1,5 +1,4 @@
 # Les Coves d'Acer
-
 - __Autor__: Isaac Asimov
 - __Títol original__: The Caves of Steel
 - __Any__: 1954
@@ -18,5 +17,4 @@ s'han tornat agorafòbics i rebutgen les innovacions tecnològiques, com els rob
 
 
 ## Bibliografia
-
 - [Viquipèdia: Les Coves d'Acer](https://ca.wikipedia.org/wiki/Les_coves_d%27acer)
