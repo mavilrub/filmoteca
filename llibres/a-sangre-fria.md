@@ -9,6 +9,6 @@ La familia asesinada, los Clutter, compuesta por Herbert Clutter, su esposa Bonn
 
 Los asesinos, Richard Eugene (Dick) Hickock y Perry Edward Smith, eran convictos en libertad condicional que creían que en la casa de los Clutter hallarían una caja fuerte con no menos de diez mil dólares. No la hallaron, pero de todos modos asesinaron a los padres y a sus dos hijos adolescentes.
 
-## Gènere
+## Gèneres
 - Periodístico narrativo
 - Crimen real

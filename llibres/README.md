@@ -13,7 +13,7 @@ tenen generalment el següent format:
 ## Sinopsi
 [Sinopsi del llibre]
 
-## Gènere
+## Gèneres
 - [Gènere 1]
 - [Gènere 2]
 ```

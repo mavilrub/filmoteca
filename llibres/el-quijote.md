@@ -5,6 +5,6 @@
 ## Sinopsi
 Don Quijote de la Mancha es una novela que relata las aventuras de un hidalgo que pierde la cordura...
 
-## Gènere
+## Gèneres
 - Novel·la
 - Aventura
