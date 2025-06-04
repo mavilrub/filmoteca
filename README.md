@@ -1,7 +1,7 @@
 # Filmoteca
 
 Aquest és un exemple de projecte col·laboratiu sobre el qual es
-treballarà a l'[exercici del Bloc 6: Gestió de projectes](https://joapuiib.github.io/curs-git/apunts/06_projectes/04_exercici/)
+treballarà a l'[exercici del Bloc 6: Gestió de projectes](https://joapuiib.github.io/curs-git/apunts/06_projectes/exercici/)
 del curs de formació [Introducció a Git i la seua aplicació a l’aula](https://joapuiib.github.io/curs-git/).
 
 El projecte consisteix en la creació d'una base de dades de pel·lícules,
