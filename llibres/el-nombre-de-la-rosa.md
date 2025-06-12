@@ -1,13 +1,13 @@
-# El nombre de la rosa
+# El nom de la rosa
 - __Autor__: Umberto Eco
 - __Any__: 1980
 
 ## Sinopsi
-Ambientada en el turbulento ambiente religioso del siglo XIV, la novela narra la investigación que realizan fray Guillermo de Baskerville y su pupilo Adso de Melk alrededor de una misteriosa serie de crímenes que suceden en una abadía del norte de Italia. 
+Ambientada en el turbulent ambient religiós del segle XIV, la novel·la narra la investigació que realitzen fra Guillermo de Baskerville i el seu pupil Adso de Melk al voltant d'una misteriosa sèrie de crims que succeeixen en una abadia del nord d'Itàlia.
 
 ## Gèneres
-- Novela histórica
-- Misterio
+- Novel·la històrica
+- Misteri
 
 ## Bibliografia
-- Wikipedia: https://es.wikipedia.org/wiki/El_nombre_de_la_rosa
+- Wikipedia: https://ca.wikipedia.org/wiki/El_nom_de_la_rosa
