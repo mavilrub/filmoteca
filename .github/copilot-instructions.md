@@ -35,6 +35,7 @@ Steps:
 4. Maintain a record of all titles, authors, and file names found.
 5. Verify that there are no duplicates among them.
 6. Report files with errors or inconsistencies.
+    - Titles should be human readable and do not need to match the filename.
 
 Do not execute any commands or create any scripts.  
 All verification should be done internally by Copilot's analysis.
@@ -45,6 +46,7 @@ All verification should be done internally by Copilot's analysis.
 
 Typical project structure:
 
+```
 filmoteca/
 ├── llibres/
 │   ├── README.md          → specifies expected format for each book
@@ -60,6 +62,7 @@ filmoteca/
 │   ├── serie1.md
 │   └── ...
 └── README.md              → general description of the project
+```
 
 No source code or configuration files exist.  
 Validation relies solely on matching files to the formats documented in the `README.md`.
